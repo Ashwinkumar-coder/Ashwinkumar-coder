@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Ashwin Kumar 
 
 Computer Science Engineering Student
-<img align="right" width="370" height="290" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFS6Ver2KzXK3odEYEJTOxPxpXHE5B1CCjHQ&s" >
+<img align="right" width="370" height="290" src="https://c4.wallpaperflare.com/wallpaper/921/890/366/computer-engineering-science-tech-wallpaper-preview.jpg" >
 
 - 🔭 Here's my [portfolio](https://portfolio-ashwinkumar.netlify.app/)
   
