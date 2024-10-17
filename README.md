@@ -6,7 +6,7 @@ Computer Science Engineering Student
 - 🔭 Here's my [portfolio](https://portfolio-ashwinkumar.netlify.app/)
   
 - 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on ML/AI
+- 👯 Looking to learn more about ML/AI
 - 🤔 I’m looking for job
 - 💬 Ask me about Tech
 - 📫 How to reach me :
