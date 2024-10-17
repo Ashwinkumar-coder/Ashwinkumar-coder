@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there 👋 It's me Ashwin Kumar 
 
-<!--
+Computer Science Engineering Student
+<img align="right" width="370" height="290" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFS6Ver2KzXK3odEYEJTOxPxpXHE5B1CCjHQ&s" >
+ <!--
 **Ashwinkumar-coder/Ashwinkumar-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
