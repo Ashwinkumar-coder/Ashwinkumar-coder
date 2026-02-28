@@ -17,6 +17,6 @@ Computer Science Engineering Student
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/python--v1.png" />  <img height="50" width="50" src="https://img.icons8.com/fluency/48/javascript.png" />  <img height="50" width="50" src="https://img.icons8.com/office/40/react.png" />  <img height="50" width="50" src="https://img.icons8.com/ios-filled/50/django.png" />  <img height="50" width="50" src="https://img.icons8.com/color/50/mysql-logo.png" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/html-5--v1.png" />  <img height="50" width="50" src="https://img.icons8.com/color/50/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap--v2.png" />
+ <img height="50" width="50" src="https://img.icons8.com/color/48/html-5--v1.png" />  <img height="50" width="50" src="https://img.icons8.com/color/50/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap--v2.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/aws--v1.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/hostinger--v1.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/postgressql--v1.png" />
 
  
