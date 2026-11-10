@@ -50,35 +50,35 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 💻 Programming Languages
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
 </p>
 
 ### 🎨 Frontend Development
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap,vite" />
 </p>
 
 ### ⚙️ Backend Development
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask" />
 </p>
 
 ### 🗄️ Databases & Storage
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
 </p>
 
 ### 🤖 AI / Machine Learning / Generative AI
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/LLMs-Large_Language_Models-412991?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=for-the-badge&logo=chainlink" />
@@ -91,76 +91,8 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### ☁️ Cloud, DevOps & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,github,githubactions,postman,vscode" />
-</p>
-
-### 🧪 Testing & Automation
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Playwright-Automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/API_Testing-Integration-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Testing-Intelligent_Automation-8A2BE2?style=for-the-badge" />
-</p>
-
----
-
-### 🚀 What I'm Interested In
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🌐 Full Stack Development</h3>
-      React.js, Node.js, Express.js, Python, FastAPI and PostgreSQL
-    </td>
-    <td align="center" width="50%">
-      <h3>🤖 AI Engineering</h3>
-      LLMs, RAG, AI Agents, LangGraph and MCP
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>☁️ Cloud & DevOps</h3>
-      AWS, Docker, Nginx and CI/CD
-    </td>
-    <td align="center" width="50%">
-      <h3>🧪 Automation</h3>
-      Playwright, API Testing and AI-powered Testing
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180"
-  src="https://github-readme-stats.vercel.app/api?username=Ashwinkumar-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-  <img height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinkumar-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img width="80%"
-  src="https://streak-stats.demolab.com?user=Ashwinkumar-coder&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwinkumar-coder&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-### 🐍 Watch My Contributions Get Animated!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashwinkumar-coder/Ashwinkumar-coder/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
 </p>
 
 ---
