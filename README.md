@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi, I'm Ashwin Kumar B</h1>
 
 <h3 align="center">
-  Full Stack Software Developer | AI Enthusiast
+  Full Stack Software Developer
 </h3>
 
 <p align="center">
@@ -36,7 +36,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 💼 Full Stack Software Developer
 - 🔭 Building scalable web applications and AI-powered solutions
-- 🌱 Learning DSA, Machine Learning and Generative AI
 - 🤖 Exploring LLMs, RAG, LangGraph and Agentic AI
 - ⚙️ Interested in AI Agents, MCP and workflow automation
 - 💻 Experienced with React.js, Node.js, Python and FastAPI
