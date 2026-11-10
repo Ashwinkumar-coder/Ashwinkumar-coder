@@ -110,10 +110,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashwinkumar-coder&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
-
 <h2 align="center">
   ⚡ Code. Create. Innovate. Repeat. ⚡
 </h2>
