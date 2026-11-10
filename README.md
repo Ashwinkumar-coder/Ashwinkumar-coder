@@ -1,22 +1,152 @@
-## Hi there 👋 It's me Ashwin Kumar 
 
-Computer Science Engineering Student
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" >
+<!-- PROFILE HEADER -->
 
-- 🔭 Here's my [portfolio](https://portfolio-ashwinkumar.netlify.app/)
-  
-- 🌱 I’m currently learning DSA
-- 👯 Looking to learn more about ML/AI
-- 🤔 I’m looking for job
-- 💬 Ask me about Tech
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/19cs017) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkrdin&logoColor=white" />](https://www.linkedin.com/in/aswin-kumar-baskaraselvan/)
-  
-- 😄 Pronouns: Techie
-- ⚡ Fun fact: Fun with Git
+<h1 align="center">Hi 👋, I'm Ashwin Kumar B</h1>
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/python--v1.png" />  <img height="50" width="50" src="https://img.icons8.com/fluency/48/javascript.png" />  <img height="50" width="50" src="https://img.icons8.com/office/40/react.png" />  <img height="50" width="50" src="https://img.icons8.com/ios-filled/50/django.png" />  <img height="50" width="50" src="https://img.icons8.com/color/50/mysql-logo.png" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/html-5--v1.png" />  <img height="50" width="50" src="https://img.icons8.com/color/50/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap--v2.png" /> 
+<h3 align="center">
+  Full Stack Software Developer | AI/ML Enthusiast
+</h3>
 
- 
+<p align="center">
+  Building scalable web applications, intelligent AI solutions,
+  and modern digital experiences.
+</p>
+
+<p align="center">
+  <a href="https://ashwinkumar-coder.github.io/AK-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-175CFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aswin-kumar-baskaraselvan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/19cs017">
+    <img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<img align="right" alt="Coding" width="350"
+src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
+
+### 👨‍💻 About Me
+
+- 💼 Full Stack Software Developer
+- 🔭 Working on full-stack applications and AI-powered solutions
+- 🌱 Exploring LLMs, RAG, Agentic AI, and Machine Learning
+- 🧠 Practicing Data Structures & Algorithms
+- 🤖 Interested in AI Agents, automation, and intelligent systems
+- 💬 Ask me about React, Node.js, Python, APIs, and AI
+- 🎯 Always learning and building something new
+- 🌐 Portfolio: [Visit Here](https://ashwinkumar-coder.github.io/AK-Portfolio/)
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Languages & Technologies
+
+#### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css" />
+</p>
+
+#### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite" />
+</p>
+
+#### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask" />
+</p>
+
+#### 🗄️ Databases & Storage
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
+</p>
+
+#### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,github,githubactions" />
+</p>
+
+#### 🤖 AI / ML & Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-AI%20Applications-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Areas
+
+| Area | Technologies |
+|---|---|
+| Frontend | React, JavaScript, TypeScript, Tailwind |
+| Backend | Node.js, Express, Python, FastAPI |
+| Database | PostgreSQL, MySQL, MongoDB, Redis |
+| AI Engineering | LLM, RAG, AI Agents, LangChain |
+| Cloud & DevOps | AWS, Docker, Nginx, CI/CD |
+| Testing | Playwright, API Testing, Automation |
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170"
+  src="https://github-readme-stats.vercel.app/api?username=Ashwinkumar-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+  <img height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinkumar-coder&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="90%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwinkumar-coder&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <img width="90%"
+  src="https://raw.githubusercontent.com/Ashwinkumar-coder/Ashwinkumar-coder/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aswin-kumar-baskaraselvan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://x.com/19cs017">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" />
+  </a>
+  <a href="https://ashwinkumar-coder.github.io/AK-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-175CFF?style=for-the-badge&logo=googlechrome" />
+  </a>
+</p>
+
+<h3 align="center">⚡ Code. Create. Innovate. Repeat. ⚡</h3>
+
+<h4 align="center">Thanks for visiting my profile! 😊</h4>
