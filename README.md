@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ashwin Kumar B</h1>
 
 <h3 align="center">
-  Full Stack Software Developer | AI/ML Enthusiast
+  Full Stack Software Developer 
 </h3>
 
 <p align="center">
@@ -93,45 +93,6 @@ src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gi
 
 ---
 
-### 🚀 Featured Areas
-
-| Area | Technologies |
-|---|---|
-| Frontend | React, JavaScript, TypeScript, Tailwind |
-| Backend | Node.js, Express, Python, FastAPI |
-| Database | PostgreSQL, MySQL, MongoDB, Redis |
-| AI Engineering | LLM, RAG, AI Agents, LangChain |
-| Cloud & DevOps | AWS, Docker, Nginx, CI/CD |
-| Testing | Playwright, API Testing, Automation |
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170"
-  src="https://github-readme-stats.vercel.app/api?username=Ashwinkumar-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-  <img height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinkumar-coder&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="90%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwinkumar-coder&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🐍 Contribution Activity
-
-<p align="center">
-  <img width="90%"
-  src="https://raw.githubusercontent.com/Ashwinkumar-coder/Ashwinkumar-coder/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake" />
-</p>
-
----
 
 ### 🤝 Let's Connect
 
